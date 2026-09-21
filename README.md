@@ -38,3 +38,4 @@ https://airdrop.asentum.com/?r=VI681FZ
 - sitede görevler var yapın.
 
 NOT: önce node kurulucak sonra siteye giricez. sosyallleşmek için site içinde mesajlaşma falan var. https://social.asentum.com/
+NOT: şimdilik eklenti cüzdanı yok ama illaki gelir yada baska bir çözüm olursa ordan devam ederiz.
